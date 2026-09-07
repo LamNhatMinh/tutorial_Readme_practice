@@ -7,6 +7,7 @@
 - [ขั้นตอนในการติดตั้ง](#ขั้นตอนในการติดตั้ง)
 - [วิธีการใช้งาน](#วิธีการใช้งาน)
 - [เครดิต](#เครดิต)
+- [อ้างอิง](#อ้างอิง)
 
 ## ขั้นตอนในการติดตั้ง
 ![img](https://devhub.in.th/media/django-summernote/2023-02-01/74de0406-8634-4bf6-bacc-52ac3c3f0fe6.png)
@@ -28,3 +29,6 @@ python javis.py
 Sirasit B.-Coding Consultant(Software Developer)
 
 Kittikorn P.-Reviewer
+
+## อ้างอิง
+ผมนำมาจากคลิป [เขียน Readme.md ให้มันเริ่ด ตัวแม่ ตัวปัง !!!](https://www.youtube.com/watch?v=CS8rQw43s-Y)
